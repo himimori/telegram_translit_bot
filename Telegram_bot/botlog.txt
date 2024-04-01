@@ -1,0 +1,12 @@
+INFO:aiogram.dispatcher:Start polling
+INFO:aiogram.dispatcher:Run polling for bot @name_latinizator_bot id=7051565658 - 'Name Latinizator'
+INFO:root:Igor 1185394938: джонни сильвер
+INFO:aiogram.event:Update id=967812615 is handled. Duration 274 ms by bot id=7051565658
+INFO:aiogram.dispatcher:Start polling
+INFO:aiogram.dispatcher:Run polling for bot @name_latinizator_bot id=7051565658 - 'Name Latinizator'
+INFO:root:Igor 1185394938: фродо бэггинс
+INFO:aiogram.event:Update id=967812616 is handled. Duration 209 ms by bot id=7051565658
+INFO:root:Igor 1185394938: frodo
+INFO:aiogram.event:Update id=967812617 is handled. Duration 75 ms by bot id=7051565658
+INFO:root:Igor 1185394938: Привет 1Андрей
+INFO:aiogram.event:Update id=967812618 is handled. Duration 106 ms by bot id=7051565658
